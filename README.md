@@ -13,6 +13,12 @@
 </p>
 <br/>
 
+<h4 align="center">⫘⫘⫘ Current Projects ⫘⫘⫘</h4>
+<p align="center">
+    <b>sevenwiki</b> - wiki with rewards. ('25 11 - ) [Website Pending]
+</p>
+<br/>
+
 <h4 align="center">⫘⫘⫘ Exp & Edu ⫘⫘⫘</h4>
 <p align="center">
     <b><a href="https://freezm.io/">Freezm LLC</a></b> (2024 - Present)<br/>
