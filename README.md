@@ -27,7 +27,7 @@
 </p>
 <p align="center">
     <b><a href="https://hana.hs.kr/">Hana Academy Seoul</a></b> (2021 - 2024)<br/>
-    School's entire system was on my hands lol.<br/>
+    The almighty ruler of school's entire computer system.<br/>
     Founded and architected first IT club, <code>Assembly</code>.
 </p>
 <br/>
