@@ -15,7 +15,7 @@
 
 <h4 align="center">⫘⫘⫘ Current Projects ⫘⫘⫘</h4>
 <p align="center">
-    <b>sevenwiki.</b> - wiki with rewards. ('25 11 - )
+    <b>sevenwiki.</b> - wiki with rewards. ('25 11 - )<br/>
     <b>Corpway</b> - crossborder enterprise compliance OS ('26 06 - )
 </p>
 <br/>
