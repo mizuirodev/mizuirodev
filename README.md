@@ -2,15 +2,15 @@
 
 <p align="center">I ship the most unhinged products.</p>
 
-<p align="center"><a href="https://mizuiro.dev/">mizuiro.dev</a></p>
+<p align="center">>> <a href="https://mizuiro.dev/">mizuiro.dev</a> <<</p>
 <br/>
 
 <h4 align="center">⫘⫘⫘ Main Interests ⫘⫘⫘</h4>
 <p align="center">
-    <code>Crossborder Business Management, Founder Ops,</code><br/>
-    <code>Web Design, Brand Design</code><br/>
+    <code>Crossborder Business Management, Founder Ops</code><br/>
+    <code>Web(Frontend) Design, Brand Design</code><br/>
     <code>Backend Programming – Python, Rust</code><br/>
-    <code>Artificial Intelligence and Virtual Youtubers</code><br/>
+    <code>Artificial Intelligence and Speech Synthesis</code><br/>
     <code>J-Pop, Utaite, Vocaloid</code><br/>
 </p>
 <br/>
