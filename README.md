@@ -2,11 +2,13 @@
 
 <p align="center">I ship the most unhinged products.</p>
 
-<p align="center">[Blog - Pending]</p>
+<p align="center"><a href="https://mizuiro.dev/">mizuiro.dev</a></p>
 <br/>
 
 <h4 align="center">⫘⫘⫘ Main Interests ⫘⫘⫘</h4>
 <p align="center">
+    <code>Crossborder Business Management, Founder Ops,</code><br/>
+    <code>Web Design, Brand Design</code><br/>
     <code>Backend Programming – Python, Rust</code><br/>
     <code>Artificial Intelligence and Virtual Youtubers</code><br/>
     <code>J-Pop, Utaite, Vocaloid</code><br/>
@@ -20,14 +22,3 @@
 </p>
 <br/>
 
-<h4 align="center">⫘⫘⫘ Exp & Edu ⫘⫘⫘</h4>
-<p align="center">
-    <b><a href="https://freezm.io/">Freezm LLC</a></b> (2024 - Present)<br/>
-    Co-Founder and COO. Manages operation.<br/>
-    Scaled to 2M+ MAU in 2Q '25.
-</p>
-<p align="center">
-    <b><a href="https://hana.hs.kr/">Hana Academy Seoul</a></b> (2021 - 2024)<br/>
-    Co-founded <b>Assembly</b>.
-</p>
-<br/>
