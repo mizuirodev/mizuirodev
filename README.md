@@ -7,7 +7,7 @@
 
 <h4 align="center">⫘⫘⫘ Main Interests ⫘⫘⫘</h4>
 <p align="center">
-    <code>Crossborder Business Management, Founder Ops</code><br/>
+    <code>Crossborder Business Management</code><br/>
     <code>Web(Frontend) Design, Brand Design</code><br/>
     <code>Backend Programming – Python, Rust</code><br/>
     <code>Artificial Intelligence and Speech Synthesis</code><br/>
