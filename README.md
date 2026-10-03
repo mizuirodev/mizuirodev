@@ -7,10 +7,10 @@
 
 <h4 align="center">⫘⫘⫘ Main Interests ⫘⫘⫘</h4>
 <p align="center">
-    <code>Crossborder Business Management</code><br/>
     <code>Web(Frontend) Design, Brand Design</code><br/>
-    <code>Backend Programming – Python, Rust</code><br/>
-    <code>Artificial Intelligence and Speech Synthesis</code><br/>
+    <code>Backend Programming (Python)</code><br/>
+    <code>AI Speech Synthesis</code><br/>
+    <code>Business Management Theories</code><br/>
     <code>J-Pop, Utaite, Vocaloid</code><br/>
 </p>
 <br/>
@@ -18,6 +18,7 @@
 <h4 align="center">⫘⫘⫘ Current Projects ⫘⫘⫘</h4>
 <p align="center">
     <b>sevenwiki.</b> - wiki with rewards. ('25 11 - )<br/>
+    <b>selectedu</b> - remote tutoring platform ('25 01 - )<br/>
     <b>Corpway</b> - crossborder enterprise compliance OS ('26 06 - )
 </p>
 <br/>
